@@ -31,7 +31,7 @@ public class New_Cashier_Form_Created extends AppCompatActivity implements Adapt
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.newcahierformlogin);
 
         profile=findViewById(R.id.profile);
         Spinner spinner=findViewById(R.id.spinner);
