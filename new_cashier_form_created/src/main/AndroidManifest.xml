@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.new_cashier_form_created" >
+
+    <application>
+        <activity android:name=".New_Cashier_Form_Created"/>
+
+    </application>
+</manifest>

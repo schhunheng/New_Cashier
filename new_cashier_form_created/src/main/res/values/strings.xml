@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">new_Cashier</string>
+    <string name="password">Password</string>
+    <string-array name="country_arrays">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>

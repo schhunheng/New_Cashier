@@ -1,0 +1,2 @@
+include ':app', ':new_cashier_form_created'
+rootProject.name='New_Cashier'
