@@ -2,7 +2,7 @@
     package="com.example.new_cashier_form_created" >
 
     <application>
-        <activity android:name=".New_Cashier_Form_Created"/>
+        <activity android:name="com.example.new_cashier_form_created.New_Cashier_Form_Created"/>
 
     </application>
 </manifest>
